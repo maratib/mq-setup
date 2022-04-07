@@ -1,4 +1,4 @@
-# Docker MQ
+# MQ Setup in Docker Container 
 ```bash
 # To Pull the image
 docker pull ibmcom/mq:latest
